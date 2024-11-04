@@ -85,18 +85,15 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 </div>
 
 
-
 ---
 
 <div>
-  <h3 align="center">🚀 What I'm Currently Up To</h3>
+  <h3 align="center">🌟 What Keeps Me Busy</h3>
   <ul>
-    <li>🔭 Currently learning <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></li>
-    <li>👯 Looking to collaborate on <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> & <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/> PaaS Development</li>
-    <li>💬 Ask me about technology and especially <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></li>
-    <li>📫 Reach me at: <a href="mailto:sanidhyad16@gmail.com">Contact Me</a></li>
-    <li>⚡ Fun fact: I love sweets 🍩</li>
-    <li>👀 Technical Lead at <strong>Amity Coding Club</strong></li>
+    <li>⌛ Currently working to polish my skills in Dotnet development along with Sql and other technologies.</li>
+    <li>🔜 Learning Angular and be a full stack developer is the next step to walk in.</li>
+    <li>⚡ Fun fact: Tryin hard everday to be better at Valorant and other games🥺</li>
+    <li>👀 Part time gamer Full time Software Engineer. 
   </ul>
 </div>
 
@@ -104,7 +101,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 
 ### 📬 Let's Connect
 <div align="center">
-  <a href="www.linkedin.com/in/shubhkant-dwivedi-4653b2176"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shubhkant-dwivedi-4653b2176/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shubhdwivedimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
