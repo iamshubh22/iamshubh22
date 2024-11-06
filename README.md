@@ -101,7 +101,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 
 ### 📬 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubhkant-dwivedi-4653b2176/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shubhkant-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shubhdwivedimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
