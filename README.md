@@ -58,7 +58,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
         </a>
       </td>
       <td align="right">
-      <strong>Insight</strong>  🗓️May 2021 - October 2021
+      <strong>Insight</strong>  🗓️October 2022 - June 2024
       </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
         </a>
       </td>
       <td align="right">
-      <strong>Codeate</strong>  🗓️October 2022 - June 2024
+      <strong>Codeate</strong>  🗓️May 2021 - October 2021
       </td>
     </tr>
     <tr>
