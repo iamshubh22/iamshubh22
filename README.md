@@ -93,7 +93,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
     <li>⌛ Currently working to polish my skills in Dotnet development along with Sql and other technologies.</li>
     <li>🔜 Learning Angular and be a full stack developer is the next step to walk in.</li>
     <li>⚡ Fun fact: Tryin hard everday to be better at Valorant and other games🥺</li>
-    <li>👀 Part time gamer Full time Software Engineer. 
+    <li>👀 Part time Gamer Full time Software Engineer. 
   </ul>
 </div>
 
@@ -103,14 +103,14 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhkant-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shubhdwivedimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+  <a href="https://shubhkant-dwivedi.my.canva.site/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website"/></a>
 
 ---
 
 ### 📄 Download My Resume
 
 <p align="center">
-  <a href="#" download>
+  <a href="https://github.com/iamshubh22/iamshubh22/blob/main/Resume--Shubhkant%20Dwivedi.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
