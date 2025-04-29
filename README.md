@@ -119,7 +119,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 ---
 
 <div>
-  <img src="https://github.com/iamshubh22/iamshubh22/blob/main/Shubh%20Circle.jpeg" width="200" height="200"/><br>
+  <img src="https://github.com/iamshubh22/iamshubh22/blob/main/Shubhkant%20Dwivedi.png" width="stretch" height="300"/><br>
 </div>
 
 ---
