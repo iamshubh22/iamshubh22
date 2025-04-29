@@ -110,7 +110,7 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 ### 📄 Download My Resume
 
 <p align="center">
-  <a href="https://github.com/iamshubh22/iamshubh22/blob/main/Resume--Shubhkant%20Dwivedi.pdf" download>
+  <a href="https://github.com/iamshubh22/iamshubh22/blob/main/Resume-Shubhkant%20Dwivedi.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
