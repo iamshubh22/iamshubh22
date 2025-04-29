@@ -31,9 +31,9 @@ I'm a Software Developer with around 2 years of experience that includes skills 
 ---
 
 ### 📜 Certifications
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Power Platform Fundamentals
-- Microsoft Certified: Azure Fundamentals
+- <a href ="https://learn.microsoft.com/api/credentials/share/en-us/ShubhkantDwivedi-6792/87237ACE39A3F3D2?sharingId=E355E9F90C2B395C">Microsoft Certified: Azure Developer Associate </a>
+- <a href = "https://learn.microsoft.com/api/credentials/share/en-us/ShubhkantDwivedi-6792/A9B6F7BE3ED0AE6?sharingId=E355E9F90C2B395C">Microsoft Certified: Power Platform Fundamentals </a>
+- <a href = "https://learn.microsoft.com/api/credentials/share/en-us/ShubhkantDwivedi-6792/2D2CAB61CA7B9C7?sharingId=E355E9F90C2B395C">Microsoft Certified: Azure Fundamentals </a>
 
 ---
 
